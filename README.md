@@ -82,3 +82,6 @@ IsNumeric Function for Input Validation: [https://stackoverflow.com/questions/18
 As a React Noob, I found this helpful:
 Codevolution React JS Tutorial Playlist: [https://youtu.be/QFaFIcGhPoM?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3](https://youtu.be/QFaFIcGhPoM?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 React JS Official Step-by-step Guide: [https://reactjs.org/docs/hello-world.html](https://reactjs.org/docs/hello-world.html)
+
+# Purpose
+For now: For Hackrithmic-2 Hackathon
