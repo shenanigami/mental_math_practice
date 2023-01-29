@@ -1,0 +1,35 @@
+.button {
+    background-color: black;
+    color: white;
+    display: inline-flex;
+    margin: 1rem 0.2rem;
+    font: sans-serif;
+    font-size: 4vw;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+.numbers{
+    font-size: 10vw;
+    color: orangered;
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.header {
+    font-size: 5vw;
+}
+
+.inputBox {
+    font-size: 2vw;
+}
+
+.message {
+    font-size: 3vw;
+}

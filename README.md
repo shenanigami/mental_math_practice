@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# Inspo + Sources:
+
+Random Number Generation Tutorial in JS: [https://youtu.be/6maXkNtlBeI](https://youtu.be/6maXkNtlBeI)
+Auto Focus: [https://stackoverflow.com/questions/28889826/how-to-set-focus-on-an-input-field-after-rendering](https://stackoverflow.com/questions/28889826/how-to-set-focus-on-an-input-field-after-rendering)
+CSS Centering: [https://www.w3schools.com/csS/css_align.asp](https://www.w3schools.com/csS/css_align.asp)
+Font Size: [https://stackoverflow.com/questions/11777598/font-size-relative-to-the-users-screen-resolution](https://stackoverflow.com/questions/11777598/font-size-relative-to-the-users-screen-resolution)
+IsNumeric Function for Input Validation: [https://stackoverflow.com/questions/18082/validate-decimal-numbers-in-javascript-isnumeric](https://stackoverflow.com/questions/18082/validate-decimal-numbers-in-javascript-isnumeric)
+
+As a React Noob, I found this helpful:
+Codevolution React JS Tutorial Playlist: [https://youtu.be/QFaFIcGhPoM?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3](https://youtu.be/QFaFIcGhPoM?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+React JS Official Step-by-step Guide: [https://reactjs.org/docs/hello-world.html](https://reactjs.org/docs/hello-world.html)
